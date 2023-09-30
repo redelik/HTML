@@ -2,6 +2,7 @@
 ## Скелет сайта:
 ![Cкелет сайта:](http://u4ilka.kcbux.ru/image/glav-001.jpg)
 
+
 `<!DOCTYPE html> <!-- Объявление формата документа -->`
 
 `<html>`
