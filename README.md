@@ -1,5 +1,6 @@
 # Словарик по HTML
-## ![Cкелет сайта:](http://u4ilka.kcbux.ru/image/glav-001.jpg)
+## 
+![Cкелет сайта:](http://u4ilka.kcbux.ru/image/glav-001.jpg)
 
 ### Элементы:
 
